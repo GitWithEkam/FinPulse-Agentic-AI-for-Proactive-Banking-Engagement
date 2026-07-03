@@ -136,13 +136,6 @@ finpulse-agentic-ai/
 
 ---
 
-## 🎥 Demo
-
-- 📹 **Video Demo:** [YouTube Link](https://youtu.be/your-demo-link)
-- 📊 **Pitch Deck:** [View Deck](link-to-deck)
-
----
-
 ## 📈 Business Model
 
 - **B2B SaaS** licensing for banks & fintechs (per active customer)
